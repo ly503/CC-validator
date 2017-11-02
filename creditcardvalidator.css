@@ -1,0 +1,39 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: darkgrey;
+	font-family: arial, helvetica, sans-serif;
+}
+
+.wrapper {
+	width: 80%;
+	height: 100vh;
+	margin: 0 auto;
+	text-align: center;
+	background-color: lightgrey;
+	padding: 10px;
+}
+
+h1 {
+	font-size: 25px;
+	padding: 5px;
+}
+
+p {
+	font-size: 16px;
+	padding: 5px;
+}
+
+input {
+	width: 200px;
+	height: 30px;
+	border-radius: 5px;
+}
+
+.creditcardinfo {
+	border: 1px solid black;
+}
